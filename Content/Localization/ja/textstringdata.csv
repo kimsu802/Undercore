@@ -1,0 +1,82 @@
+Key	SourceString	Comment
+gameplay_tap_title	л▓?лрл╫льлд	┼╟ └╠╕з
+gamedifficulty_title	╤ёц╢╙°	
+gamedifficulty_description	л▓?лрюя?к╬╤ёц╢╙°кЄЁря┌к╖к▐к╣бг \n\n <Bold>лд?л╕?:</> л╣л╚?лъ?ёьу╩к╬л╫льлдк╟к╣бг?кск╬??кЄЁл═ък╖к▐к╣бг\n\n <Bold>л╬?л▐лы:</> °Ўё▐ю▄к╩л▓?лрл╫льлдк╟к╣бг \n\n <Bold>л╧?л╔:</> ╙√?ю▄к╩╤ёц╢╙°к╟к╣бг \n\n <Bold>л╪лы:</> ╨┐кск╞═╘кд╤ёц╢╙°к╟к╣бгЇ°у¤э║кфЇ°№▐л╫льлдк╦к╧ї╧?к╡кьк▐к╗кєбг	
+gamedifficulty_easy	лд?л╕?	░╘└╙╟├╖╣└╠ ┐╔╝╟ - │н└╠╡╡ ╝│┴д
+gamedifficulty_normal	л╬?л▐лы	░╘└╙╟├╖╣└╠ ┐╔╝╟ - │н└╠╡╡ ╝│┴д
+gamedifficulty_hard	л╧?л╔	░╘└╙╟├╖╣└╠ ┐╔╝╟ - │н└╠╡╡ ╝│┴д
+gamedifficulty_hell	л╪лы	░╘└╙╟├╖╣└╠ ┐╔╝╟ - │н└╠╡╡ ╝│┴д
+localization_category_title	лэ?лллщлдл║	░╘└╙╟├╖╣└╠ - ╟Ў┴Ў╚н ╟ь┤ї
+language_title	хых▐	░╘└╙╟├╖╣└╠ - ╛Ё╛ю
+language_kr	∙█?х▐	░╘└╙╟├╖╣└╠ - ╛Ё╛ю
+language_en	ч╚х▐	░╘└╙╟├╖╣└╠ - ╛Ё╛ю
+language_jp	ьэ▄тх▐	░╘└╙╟├╖╣└╠ - ╛Ё╛ю
+audio_tab_title	лк?л╟лглк	┼╟ └╠╕з
+volume_category_title	ых╒с	┐└╡Ё┐└ ┼╟ - ║╝╖¤ ╟ь┤ї
+overallvolume_title	л▐л╣л┐?ых╒с	
+overallvolume_description	л▐л╣л┐?ых╒ск╬▀┘см?┘ек╟к╣бг	
+musicvolume_title	ых?ых╒с	
+musicvolume_description	ых?ых╒ск╬▀┘см?┘ек╟к╣бг	
+soundfxvolume_title	?═¤ыхых╒с	
+soundfxvolume_description	?═¤ыхых╒ск╬▀┘см?┘ек╟к╣бг	
+sound_category_title	л╡лжлєл╔	
+string_enabled	ъє?	
+string_disabled	┘э?	
+backgroundaudio_title	л╨л├лпл░лщлжлєл╔ых	
+hdraudio_title	HDRлк?л╟лглк	
+video_tap_title	л╙л╟лк	
+display_category_title	л╟лгл╣л╫льлд	
+package_disabled_reason	\n\n<Disabled>к│к╬лкл╫л╖лчлєк╧л╤л├л▒?л╕л╙лыл╔к╟к╬к▀?╠┌╩ж╥Ўк╟к╣бг </>	
+windowmode_title	лжлглєл╔лжлт?л╔	
+windowmode_description	лжлглєл╔лжлт?л╔к╬▀┘см?┘ек╟к╣бг	
+string_fullscreen	л╒лыл╣лплъ?лє	
+string_windowedfullscreen	л▄?л└?льл╣лжлглєл╔лж	
+string_windowed	лжлглєл╔лж	
+screenresolution_title	·░▀└╙°	
+screenresolution_description	·░▀└╙°к╬▀┘см?┘ек╟к╣бг	
+windowmode_disabled_reason	\n\n<Disabled>лжлглєл╔лжлт?л╔кмб╕л▄?л└?льл╣лжлглєл╔лжб╣к╬э▐∙ъбв·░▀└╙°к╧?╠┌к╟кнк▐к╗кєбгї╠╙▐·░▀└╙°к╦э╗╘╤ю▄к╦═│я╥к╡кьк▐к╣бг</>	
+graphics_category_title	л░лщл╒лгл├лпл╣	
+displaygamma_title	┘екык╡	
+displaygamma_description	┘екык╡к╬▀┘см?┘ек╟к╣бг	
+overallquality_title	юя?∙бЄї	
+overallquality_description	юя?∙бЄїк╬▀┘см?┘ек╟к╣бг	
+string_low	ю╕	
+string_normal	°Ўё▐	
+string_high	═╘	
+string_veryhigh	▐к▀╚к╦═╘кд	
+string_cinematic	л╖л═л▐л╞лгл├лп	
+resolutionscale_title	·░▀└╙°∙бЄї	
+resolutionscale_description	·░▀└╙°∙бЄїк╬▀┘см?┘ек╟к╣бг	
+globalilluminationquality_title	лщлдл╞лглєл░	
+globalilluminationquality_description	лщлдл╞лглєл░∙бЄїк╬▀┘см?┘ек╟к╣бг	
+shadowquality_title	чп	
+shadowquality_description	чпк╬∙бЄїк╬▀┘см?┘ек╟к╣бг	
+antialiasingquality_title	лвлєл┴лилдлълвл╣	
+antialiasingquality_description	лвлєл┴лилдлълвл╣к╬▀┘см?┘ек╟к╣бг	
+viewdistance_title	┘┌?╦х╫ю	
+viewdistance_description	┘┌?╦х╫ю∙бЄїк╬▀┘см?┘ек╟к╣бг	
+texturequality_title	л╞лпл╣л┴лу	
+texturequality_description	л╞лпл╣л┴лу∙бЄїк╬▀┘см?┘ек╟к╣бг	
+visualeffectquality_title	у╩??═¤	
+visualeffectquality_description	у╩??═¤∙бЄїк╬▀┘см?┘ек╟к╣бг	
+reflectionquality_title	┌у▐╥	
+reflectionquality_description	┌у▐╥∙бЄїк╬▀┘см?┘ек╟к╣бг	
+postprocessingquality_title	л▌л╣л╚л╫лэл╗л╣	
+postprocessingquality_description	л▌л╣л╚л╫лэл╗л╣к╬▀┘см?┘ек╟к╣бг	
+advancedgraphics_category_title	═╘╙°к╩л░лщл╒лгл├лпл╣	
+verticalsync_title	сўЄ┴╘╥╤в	
+verticalsync_description	сўЄ┴╘╥╤вк╬▀┘см?┘ек╟к╣бг	
+fullscreenonly_disabled_reason	\n\n<Disabled>к│к╬ртя╥к╧лжлглєл╔лжлт?л╔кмб╕л╒лыл╣лплъ?лєб╣к╬э▐∙ък╬к▀?╠┌╩ж╥Ўк╟к╣бг</>	
+frameratelimit_title	л╒ль?лрль?л╚Ёд∙┌	
+frameratelimit_description	л╒ль?лрль?л╚Ёд∙┌к╬▀┘см?┘ек╟к╣бг	
+string_nolimit	Ёд∙┌к╩к╖	
+control_tab_title	л│лєл╚лэ?лы	
+string_cancel	лнлулєл╗лы	
+string_yes	к╧кд	
+string_confirm	№мьу	
+string_no	кдкдки	
+confirm_reset_options	к│к╬л┐л╓к╬ртя╥кЄк╣к┘к╞лъл╗л├л╚к╖к▐к╣клг┐	
+string_near	╨╬кд	
+string_medium	ёщ╩р	
+string_far	ъ└кд	
+string_veryfar	▐к▀╚к╦ъ└кд	

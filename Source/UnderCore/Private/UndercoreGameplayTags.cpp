@@ -1,0 +1,90 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+
+#include "UndercoreGameplayTags.h"
+
+
+namespace UndercoreGameplayTags
+{
+	UE_DEFINE_GAMEPLAY_TAG(InputTag_Move,"InputTag.Move");
+	UE_DEFINE_GAMEPLAY_TAG(InputTag_Look,"InputTag.Look");
+	UE_DEFINE_GAMEPLAY_TAG(InputTag_Roll,"InputTag.Roll");
+	UE_DEFINE_GAMEPLAY_TAG(InputTag_Jump,"InputTag.Jump");
+	UE_DEFINE_GAMEPLAY_TAG(InputTag_Walk,"InputTag.Walk");
+	UE_DEFINE_GAMEPLAY_TAG(InputTag_FastRun,"InputTag.FastRun");
+	UE_DEFINE_GAMEPLAY_TAG(InputTag_Interact,"InputTag.Interact");
+	UE_DEFINE_GAMEPLAY_TAG(InputTag_Escape,"InputTag.Escape");;
+	UE_DEFINE_GAMEPLAY_TAG(InputTag_EquipWeapon,"InputTag.EquipWeapon");
+	UE_DEFINE_GAMEPLAY_TAG(InputTag_LightAttack,"InputTag.LightAttack");
+	UE_DEFINE_GAMEPLAY_TAG(InputTag_HeavyAttack,"InputTag.HeavyAttack");
+
+
+	UE_DEFINE_GAMEPLAY_TAG(Shared_Status_HitReact_Front, "Shared.Status.HitReact.Front");
+	UE_DEFINE_GAMEPLAY_TAG(Shared_Status_HitReact_Left, "Shared.Status.HitReact.Left");
+	UE_DEFINE_GAMEPLAY_TAG(Shared_Status_HitReact_Right, "Shared.Status.HitReact.Right");
+	UE_DEFINE_GAMEPLAY_TAG(Shared_Status_HitReact_Back, "Shared.Status.HitReact.Back");
+	UE_DEFINE_GAMEPLAY_TAG(Shared_Status_Walking, "Shared.Status.Walking");
+	UE_DEFINE_GAMEPLAY_TAG(Shared_Status_Jumping, "Shared.Status.Jumping");
+	UE_DEFINE_GAMEPLAY_TAG(Shared_Status_Dead, "Shared.Status.Dead");
+
+	UE_DEFINE_GAMEPLAY_TAG(Enemy_Status_Strafing, "Enemy.Status.Strafing");
+	UE_DEFINE_GAMEPLAY_TAG(Enemy_Status_UnderAttack, "Enemy.Status.UnderAttack");
+
+	UE_DEFINE_GAMEPLAY_TAG(Player_Weapon_Sword, "Player.Weapon.Sword");
+
+	UE_DEFINE_GAMEPLAY_TAG(Player_Status_FastRunning, "Player.Status.FastRunning");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Status_Rolling, "Player.Status.Rolling");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Status_EquippedWeapon, "Player.Status.EquippedWeapon");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Status_Fighting, "Player.Status.Fighting");
+
+
+	UE_DEFINE_GAMEPLAY_TAG(Shared_Event_HitReact, "Shared.Event.HitReact");
+	UE_DEFINE_GAMEPLAY_TAG(Shared_Event_MeleeHit, "Shared.Event.MeleeHit");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Event_Equip_Weapon, "Player.Event.Equip.Weapon");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Event_Unequip_Weapon, "Player.Event.Unequip.Weapon");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Event_Cancel_Montage, "Player.Event.Cancel.Montage");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Event_HitReact, "Player.Event.HitReact");
+
+
+	UE_DEFINE_GAMEPLAY_TAG(Player_Ability_Equip, "Player.Ability.Equip");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Ability_Equip_Sword, "Player.Ability.Equip.Sword");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Ability_Unequip, "Player.Ability.Unequip");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Ability_Unequip_Sword, "Player.Ability.Unequip.Sword");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Ability_Attack, "Player.Ability.Attack");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Ability_Attack_Light, "Player.Ability.Attack.Light");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Ability_Attack_Light_Sword, "Player.Ability.Attack.Light.Sword");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Ability_Attack_Heavy, "Player.Ability.Attack.Heavy");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Ability_Attack_Heavy_Sword, "Player.Ability.Attack.Heavy.Sword");
+	UE_DEFINE_GAMEPLAY_TAG(Player_Ability_Roll, "Player.Ability.Roll");
+
+	UE_DEFINE_GAMEPLAY_TAG(Player_SetByCaller_AttackType_Light, "Player.SetByCaller.AttackType.Light");
+	UE_DEFINE_GAMEPLAY_TAG(Player_SetByCaller_AttackType_Heavy, "Player.SetByCaller.AttackType.Heavy");
+
+	UE_DEFINE_GAMEPLAY_TAG(Enemy_Weapon, "Enemy.Weapon");
+	UE_DEFINE_GAMEPLAY_TAG(Enemy_Ability_Melee, "Enemy.Ability.Melee");
+	UE_DEFINE_GAMEPLAY_TAG(Enemy_Ability_Ranged, "Enemy.Ability.Ranged");
+	UE_DEFINE_GAMEPLAY_TAG(Enemy_Ability_SummonEnemies, "Enemy.Ability.SummonEnemies");
+
+	UE_DEFINE_GAMEPLAY_TAG(Enemy_Event_SummonEnemies, "Enemy.Event.SummonEnemies");
+
+
+	UE_DEFINE_GAMEPLAY_TAG(Shared_SetByCaller_BaseDamage, "Shared.SetByCaller.BaseDamage");
+	UE_DEFINE_GAMEPLAY_TAG(Shared_Ability_HitReact, "Shared.Ability.HitReact");
+	UE_DEFINE_GAMEPLAY_TAG(Shared_Ability_Death, "Shared.Ability.Death");
+
+	UE_DEFINE_GAMEPLAY_TAG(FrontEnd_WidgetStack_Modal, "FrontEnd.WidgetStack.Modal");
+	UE_DEFINE_GAMEPLAY_TAG(FrontEnd_WidgetStack_GameMenu, "FrontEnd.WidgetStack.GameMenu");
+	UE_DEFINE_GAMEPLAY_TAG(FrontEnd_WidgetStack_GameHud, "FrontEnd.WidgetStack.GameHud");
+	UE_DEFINE_GAMEPLAY_TAG(FrontEnd_WidgetStack_FrontEnd, "FrontEnd.WidgetStack.FrontEnd");
+
+
+
+	UE_DEFINE_GAMEPLAY_TAG(FrontEnd_Widget_PressAnyKeyScreen, "FrontEnd.Widget.PressAnyKeyScreen");
+	UE_DEFINE_GAMEPLAY_TAG(FrontEnd_Widget_MainMenuScreen, "FrontEnd.Widget.MainMenuScreen");
+	UE_DEFINE_GAMEPLAY_TAG(FrontEnd_Widget_ConfirmScreen, "FrontEnd.Widget.ConfirmScreen");
+	UE_DEFINE_GAMEPLAY_TAG(FrontEnd_Widget_OptionScreen, "FrontEnd.Widget.OptionScreen");
+	UE_DEFINE_GAMEPLAY_TAG(FrontEnd_Widget_KeyRemapScreen, "FrontEnd.Widget.KeyRemapScreen");
+	UE_DEFINE_GAMEPLAY_TAG(FrontEnd_Widget_NickNameScreen, "FrontEnd.Widget.NickNameScreen");
+	UE_DEFINE_GAMEPLAY_TAG(Push_Widget_Default, "Push.Widget.Default");
+
+};
